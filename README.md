@@ -1,11 +1,9 @@
-## Hi there 👋
+👋 Hello World!
 
-👋 Hi, I’m Xojimurodov Muhammadaziz.
+👨‍💻 I'm Xojimurodov Muhammadaziz 
 
-👀 I am interested in programming.
+🚀 Frontend Developer passionate about building modern web apps  
 
-🌱 I am currently a Frontend Developer.
+💡 Skills: HTML, CSS, JavaScript, React ,ReactNative
 
-💞 I want to collaborate with companies
-
-📫 I have worked hard to get to this point.
+🤝 Open to collaboration and new opportunities  
