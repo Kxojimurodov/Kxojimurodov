@@ -61,7 +61,7 @@
 ## Soft Skills
  👨‍💻 JAVA SCRIPT,   TYPE SCRIPT,   REACT JS,   NEXT JS
   
- 👁️ HTML,   CSS,   SCSS,   TAILWIND,   BOOTSTRAP
+ 👁️ HTML,   CSS, 
   
  💽 GIT HUB,   MUI,   REACT QUERY,   REDUX,   CONTEXT API
 
